@@ -1,0 +1,5 @@
+- Buffs e Debuffs;
+- Sistema de fome;
+- Combate "fluído";
+- Dano fixo, apenas mutável por bônus de classe/arma;
+- Personagem pode ter várias perícias, porém há poucos atributos;
