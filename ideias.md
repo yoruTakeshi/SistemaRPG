@@ -1,3 +1,5 @@
+# Ideias não-implementadas ainda
+
 - Buffs e Debuffs;
 - Sistema de fome;
 - Combate "fluído";
