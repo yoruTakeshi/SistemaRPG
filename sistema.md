@@ -75,6 +75,8 @@ Pode-se retirar um ponto de um atributo que está nulo (0), para colocar em outr
 - -3 Destreza e Velocidade
 - -3 Força
 
+## Habilidades de Classe
+
 ## Perícias
 
 ## DTs
