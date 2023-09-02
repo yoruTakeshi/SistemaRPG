@@ -6,7 +6,7 @@ HP:
 A vida dos personagens podem ser baseadas em:
 
 1. x de HP + y de HP máx. por inimigo abatido.
-2. x de HP fixo + Constituição
+2. x de HP fixo + Constituição.
 
 - Constituição;
 - Força;
@@ -17,7 +17,7 @@ A vida dos personagens podem ser baseadas em:
 
 ## "Classes" (Modificadores de Atributo)
 
-*Valores meramente ilustrativos. Devem ser proporcionais a quantidade de pontos que podem ser distribuídos. NO exemplo, 5 pontos são ultilizados.
+*Valores meramente ilustrativos. Devem ser proporcionais a quantidade de pontos que podem ser distribuídos. No exemplo, 5 pontos livres são disponíveis para o jogador colocar em seus atributos.
 
 Pode-se retirar um ponto de um atributo que está nulo (0), para colocar em outro atributo, tornando o atributo o qual o ponto foi retirado em -1.
 
