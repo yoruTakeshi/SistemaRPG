@@ -24,7 +24,6 @@ Pode-se retirar um ponto de um atributo que está nulo (0), para colocar em outr
 ### Tanque
 
 - +2 Constituição
-- +1 Percepção
 
 - -2 Destreza e Velocidade
 - -1 Carisma
@@ -35,14 +34,12 @@ Pode-se retirar um ponto de um atributo que está nulo (0), para colocar em outr
 - +1 Destreza e Velocidade
 
 - -1 Constituição
-- -1 Percepção
 
 ### Combate Pesado
 
 - +2 Força
 
 - -1 Destreza e Velocidade
-- -1 Constituição
 
 ### Combate Ladrão / Velocista
 
@@ -64,7 +61,7 @@ Pode-se retirar um ponto de um atributo que está nulo (0), para colocar em outr
 - +3 Carisma
 
 - -2 Percepção
-- -1 Força
+- -1 Inteligência
 
 ### Neutro
 
