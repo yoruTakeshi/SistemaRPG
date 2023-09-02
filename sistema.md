@@ -11,8 +11,72 @@ A vida dos personagens podem ser baseadas em:
 - Constituição;
 - Força;
 - Destreza e Agilidade;
+- Inteligência;
 - Percepção;
 - Carisma;
+
+## "Classes" (Modificadores de Atributo)
+
+*Valores meramente ilustrativos. Devem ser proporcionais a quantidade de pontos que podem ser distribuídos. NO exemplo, 5 pontos são ultilizados.
+
+Pode-se retirar um ponto de um atributo que está nulo (0), para colocar em outro atributo, tornando o atributo o qual o ponto foi retirado em -1.
+
+### Tanque
+
+- +2 Constituição
+- +1 Percepção
+
+- -2 Destreza e Velocidade
+- -1 Carisma
+
+### Combate Balanceado
+
+- +1 Força
+- +1 Destreza e Velocidade
+
+- -1 Constituição
+- -1 Percepção
+
+### Combate Pesado
+
+- +2 Força
+
+- -1 Destreza e Velocidade
+- -1 Constituição
+
+### Combate Ladrão / Velocista
+
+- +2 Destreza e Velocidade
+
+- -1 Força
+- -1 Constituição
+
+### Inteligência
+
+- +2 Inteligência
+- +1 Percepção
+
+- -2 Força
+- -1 Destreza e Velocidade
+
+### Bardo
+
+- +3 Carisma
+
+- -2 Percepção
+- -1 Força
+
+### Neutro
+
+- Sem alterações em seus atributos, exceto se houver atributos especiais.
+
+### Super-Inteligência
+
+- +4 Inteligência
+- +2 Percepção
+
+- -3 Destreza e Velocidade
+- -3 Força
 
 ## Perícias
 
@@ -34,8 +98,13 @@ Ordem de turnos: Rolagem de D20;
 O dano é baseado no seu atributo de Força.
 Existem 2 tipos de bônus: Arma, Item equipável.
 
-Ao atacar, o atuante tem que chamar o ataque que irá fazer:
+Ao atacar, o atuante tem que chamar o ataque (ou a DT) que irá fazer:
 
 - Ataque pesado (Cabeça, pescoço ou coração, ou um ataque em dupla): DT20 - Dobra o dano baseado em Força + Bônus
 - Ataque médio: DT15 - Dá dano de Força + Bônus
 - Ataque fraco: DT10 - Dano de Força, sem nenhum bônus.
+
+## Quesito de Exploração
+
+- Simplesmente narrativo;
+- Ou baseada em mapa;
